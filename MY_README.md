@@ -82,12 +82,25 @@ Go to the frontend folder and install the packages:
 npm install
 ```
 
-
 execute the server:
 
 ```bash
 npm start
 ```
+
+
+---
+If you could have any error, run:
+
+```bash
+npm cache clean --force
+rm -rf node_modules
+npm install
+
+npm start
+```
+---
+
 
 You must to watch any similar, and now in your browser you can navigate to this url regarding to this example: 
 http://localhost:8081
