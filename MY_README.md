@@ -2,7 +2,7 @@
 
 In this directory:
 
-create the postgresql databas
+create the postgresql database
 
 To excecute manually the 
 ```bash
@@ -139,4 +139,4 @@ Starting Metro Bundler
 
 You will see the application working.
 And you will be able to manage the questions and answers for the users.
-![[App.png]]
+![Application](./App.png)
